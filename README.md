@@ -1,0 +1,2 @@
+# critoIsa
+codigo para trabajos 
